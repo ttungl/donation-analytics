@@ -43,6 +43,7 @@ The expected result will be displayed on the terminal as follows.
       [Tue Feb 13 00:47:29 CST 2018] 2 of 2 tests passed
 
 Beside the default `test_1` testcase, I also created `my-own-test` testcase.
+
 Note, the log of the tests is saved in the `results.txt` in `insight_testsuite` directory.
 
 ---
