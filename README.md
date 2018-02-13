@@ -3,7 +3,7 @@
 InsightDataScience
 ---
 
-### Files Location
+### 1. Files Location
 
 In this challenge, our program will do the following steps:
 
@@ -21,7 +21,7 @@ In this challenge, our program will do the following steps:
     
     + `read_dataset.py` and `write_dataset.py`: to read from files and write to file.
     
-### Run the program
+### 2. Run the program
 
 To run the program, using `./run.sh` under the `donation-analytics` directory.
 
@@ -30,7 +30,7 @@ The expected result will be written in the `repeat_donors.txt` as follows.
       C00384516|02895|2018|333|333|1
       C00384516|02895|2018|333|717|2
 
-### Testing
+### 3. Testing
 
 To run the test, go to the `insight_testsuite` directory, then using `./run_tests.sh`.
       
