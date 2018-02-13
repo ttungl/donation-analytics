@@ -42,6 +42,8 @@ The expected result will be expressed on the terminal as follows.
       [PASS]: test_1 repeat_donors.txt
       [Tue Feb 13 00:47:29 CST 2018] 2 of 2 tests passed
 
+Note, the log of the tests is saved in the `results.txt` in `insight_testsuite` directory.
+
 ---
 
 
