@@ -36,7 +36,7 @@ To run the test, go to the `insight_testsuite` directory, then using `./run_test
       
       Tungs-MBP:insight_testsuite tungthanhle$ ./run_tests.sh 
       
-The expected result will be expressed on the terminal as follows.
+The expected result will be displayed on the terminal as follows.
 
       [PASS]: my-own-test repeat_donors.txt
       [PASS]: test_1 repeat_donors.txt
